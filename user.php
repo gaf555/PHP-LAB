@@ -87,6 +87,3 @@
             $this->password = $pwd;
         }
     }
-
-
-
